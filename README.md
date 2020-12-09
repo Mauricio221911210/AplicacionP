@@ -1,4 +1,4 @@
-# dsm41_peliculas_equipo2
+# aplicacionde_peliculas
 
 A new Flutter project.
 
